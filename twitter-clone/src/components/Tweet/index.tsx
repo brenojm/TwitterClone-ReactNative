@@ -49,7 +49,7 @@ export const Tweet = ({ tweet, ...rest }) => {
                     <Text style={styles.textName}>
                         {tweet.name}
                         <Text style={styles.textUser}>
-                            @{tweet.user}
+                            {` @${tweet.user}`}
                         </Text>
                     </Text>
 

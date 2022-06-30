@@ -37,6 +37,7 @@ export const Routes = () => {
                     tabBarStyle: {backgroundColor: "white", paddingBottom: 2},
                     tabBarActiveTintColor: 'black',
                     tabBarInactiveTintColor: 'grey',
+                    tabBarShowLabel: false
                 }}
             >
                 <Tab.Screen

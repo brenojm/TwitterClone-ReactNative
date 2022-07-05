@@ -46,7 +46,7 @@ export const LoginFinish = ({navigation}) => {
                 })} */}
                     <Text
                         style={{ color: 'lightgrey', fontWeight: 'bold' }}>
-                        Next
+                        Log in
                     </Text>
                 </TouchableOpacity>
 

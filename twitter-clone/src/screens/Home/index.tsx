@@ -78,7 +78,7 @@ export const Home = () => {
             textContent: "",
             commentNumber: 420,
             retweetNumber: 69,
-            likeNumber: 666,
+            likeNumber: 540,
             image: "https://media.discordapp.net/attachments/842558398376837141/992168830799454288/IMG_5875.JPG"
         },
         {
